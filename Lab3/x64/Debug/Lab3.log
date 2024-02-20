@@ -1,0 +1,5 @@
+﻿  sudoku.c
+C:\Users\huyph\OneDrive\Desktop\Operating System\OS_Lab3\Lab3\sudoku.c(82): warning C4716: 'check_row': must return a value
+C:\Users\huyph\OneDrive\Desktop\Operating System\OS_Lab3\Lab3\sudoku.c(55): warning C4716: 'check_column': must return a value
+C:\Users\huyph\OneDrive\Desktop\Operating System\OS_Lab3\Lab3\sudoku.c(111): warning C4716: 'check_subgrid': must return a value
+  Lab3.vcxproj -> C:\Users\huyph\OneDrive\Desktop\Operating System\OS_Lab3\Lab3\x64\Debug\Lab3.exe
